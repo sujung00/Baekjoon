@@ -1,4 +1,4 @@
-package p7;
+package Lv0.p7;
 
 class Solution {
     public int solution(int[] array) {

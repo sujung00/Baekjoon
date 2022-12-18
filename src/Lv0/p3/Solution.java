@@ -1,4 +1,4 @@
-package p3;
+package Lv0.p3;
 
 class Solution {
     public int[] solution(int num, int total) {

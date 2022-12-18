@@ -1,4 +1,4 @@
-package p4;
+package Lv0.p4;
 
 //종이 자르기
 class Solution {

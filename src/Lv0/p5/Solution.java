@@ -1,7 +1,4 @@
-package p5;
-
-import java.util.ArrayList;
-import java.util.List;
+package Lv0.p5;
 
 //문자열 밀기
 class Solution {

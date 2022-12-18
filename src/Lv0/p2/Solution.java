@@ -1,4 +1,4 @@
-package p2;
+package Lv0.p2;
 
 class Solution {
     public int solution(int[] common) {
